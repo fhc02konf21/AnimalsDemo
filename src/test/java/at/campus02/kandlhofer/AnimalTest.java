@@ -14,7 +14,7 @@ class AnimalTest {
 
     /**
      * Vor jedem einzelnen TestCase wird diese Methode aufgerufen
-     * So stehen im die selben Werte (Objekte) für die Tests zur Verfügung
+     * So stehen immer die selben Werte (Objekte) für die Tests zur Verfügung
      */
     @BeforeEach
     void setUp() {
